@@ -217,7 +217,7 @@ def crawl_phw(use_local=False):
         file = "data/raw/phw/Rapid COVID-19 surveillance data.xlsx"
     else:
         # Use http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf to find latest by CTRL + F "Covid"
-        file = "http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/7a567aa63d5a8223802585b50052a827/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx"
+        file = "http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx"
 
     df = pd.read_excel(file, sheet_name="Tests by specimen date")
     df["Date"] = df["Specimen date"].apply(lambda x: x.strftime('%Y-%m-%d')).astype(str)
