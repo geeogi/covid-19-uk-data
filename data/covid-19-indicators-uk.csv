@@ -2380,6 +2380,7 @@ Date,Country,Indicator,Value
 2020-08-01,England,ConfirmedCases,262746
 2020-08-01,England,Deaths,41584
 2020-08-01,Scotland,ConfirmedCases,18645
+2020-08-01,Scotland,Deaths,2491
 2020-08-01,Scotland,Tests,363239
 2020-08-01,UK,ConfirmedCases,303952
 2020-08-01,UK,Deaths,46193
@@ -2388,6 +2389,10 @@ Date,Country,Indicator,Value
 2020-08-01,Wales,Tests,248136
 2020-08-02,England,Deaths,41589
 2020-08-02,Scotland,ConfirmedCases,18676
+2020-08-02,Scotland,Deaths,2491
 2020-08-02,Scotland,Tests,366025
 2020-08-02,UK,ConfirmedCases,304695
 2020-08-02,UK,Deaths,46201
+2020-08-03,Scotland,ConfirmedCases,18694
+2020-08-03,Scotland,Deaths,2491
+2020-08-03,Scotland,Tests,368480
