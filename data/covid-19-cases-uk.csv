@@ -24255,7 +24255,7 @@ Date,Country,AreaCode,Area,TotalCases
 2020-08-13,Scotland,S08000028,Western Isles,7
 2020-08-13,Wales,W11000028,Aneurin Bevan,2765
 2020-08-13,Wales,W11000023,Betsi Cadwaladr,4751
-2020-08-13,Wales,W11000029,Cardiff and Vale,3145
+2020-08-13,Wales,W11000029,Cardiff and Vale,3146
 2020-08-13,Wales,W11000030,Cwm Taf,3047
 2020-08-13,Wales,W11000025,Hywel Dda,1206
 2020-08-13,Wales,,Outside Wales,138
@@ -24277,12 +24277,12 @@ Date,Country,AreaCode,Area,TotalCases
 2020-08-14,Scotland,S08000030,Tayside,1823
 2020-08-14,Scotland,S08000028,Western Isles,7
 2020-08-14,Wales,W11000028,Aneurin Bevan,2767
-2020-08-14,Wales,W11000023,Betsi Cadwaladr,4754
-2020-08-14,Wales,W11000029,Cardiff and Vale,3149
+2020-08-14,Wales,W11000023,Betsi Cadwaladr,4757
+2020-08-14,Wales,W11000029,Cardiff and Vale,3150
 2020-08-14,Wales,W11000030,Cwm Taf,3048
 2020-08-14,Wales,W11000025,Hywel Dda,1207
 2020-08-14,Wales,,Outside Wales,138
-2020-08-14,Wales,W11000024,Powys,361
+2020-08-14,Wales,W11000024,Powys,363
 2020-08-14,Wales,W11000031,Swansea Bay,2020
 2020-08-14,Wales,,Unknown,141
 2020-08-15,Scotland,S08000015,Ayrshire and Arran,1286
@@ -24300,12 +24300,12 @@ Date,Country,AreaCode,Area,TotalCases
 2020-08-15,Scotland,S08000030,Tayside,1827
 2020-08-15,Scotland,S08000028,Western Isles,7
 2020-08-15,Wales,W11000028,Aneurin Bevan,2767
-2020-08-15,Wales,W11000023,Betsi Cadwaladr,4760
-2020-08-15,Wales,W11000029,Cardiff and Vale,3150
+2020-08-15,Wales,W11000023,Betsi Cadwaladr,4763
+2020-08-15,Wales,W11000029,Cardiff and Vale,3151
 2020-08-15,Wales,W11000030,Cwm Taf,3049
 2020-08-15,Wales,W11000025,Hywel Dda,1208
 2020-08-15,Wales,,Outside Wales,138
-2020-08-15,Wales,W11000024,Powys,361
+2020-08-15,Wales,W11000024,Powys,363
 2020-08-15,Wales,W11000031,Swansea Bay,2021
 2020-08-15,Wales,,Unknown,141
 2020-08-16,Scotland,S08000015,Ayrshire and Arran,1287
@@ -24323,12 +24323,12 @@ Date,Country,AreaCode,Area,TotalCases
 2020-08-16,Scotland,S08000030,Tayside,1835
 2020-08-16,Scotland,S08000028,Western Isles,7
 2020-08-16,Wales,W11000028,Aneurin Bevan,2769
-2020-08-16,Wales,W11000023,Betsi Cadwaladr,4760
-2020-08-16,Wales,W11000029,Cardiff and Vale,3151
+2020-08-16,Wales,W11000023,Betsi Cadwaladr,4766
+2020-08-16,Wales,W11000029,Cardiff and Vale,3158
 2020-08-16,Wales,W11000030,Cwm Taf,3049
 2020-08-16,Wales,W11000025,Hywel Dda,1208
 2020-08-16,Wales,,Outside Wales,138
-2020-08-16,Wales,W11000024,Powys,361
+2020-08-16,Wales,W11000024,Powys,364
 2020-08-16,Wales,W11000031,Swansea Bay,2021
 2020-08-16,Wales,,Unknown,142
 2020-08-17,Scotland,S08000015,Ayrshire and Arran,1288
@@ -24346,12 +24346,12 @@ Date,Country,AreaCode,Area,TotalCases
 2020-08-17,Scotland,S08000030,Tayside,1838
 2020-08-17,Scotland,S08000028,Western Isles,7
 2020-08-17,Wales,W11000028,Aneurin Bevan,2769
-2020-08-17,Wales,W11000023,Betsi Cadwaladr,4760
-2020-08-17,Wales,W11000029,Cardiff and Vale,3151
-2020-08-17,Wales,W11000030,Cwm Taf,3049
+2020-08-17,Wales,W11000023,Betsi Cadwaladr,4768
+2020-08-17,Wales,W11000029,Cardiff and Vale,3158
+2020-08-17,Wales,W11000030,Cwm Taf,3051
 2020-08-17,Wales,W11000025,Hywel Dda,1208
 2020-08-17,Wales,,Outside Wales,138
-2020-08-17,Wales,W11000024,Powys,361
+2020-08-17,Wales,W11000024,Powys,365
 2020-08-17,Wales,W11000031,Swansea Bay,2021
 2020-08-17,Wales,,Unknown,142
 2020-08-18,Scotland,S08000015,Ayrshire and Arran,1290
@@ -24368,6 +24368,15 @@ Date,Country,AreaCode,Area,TotalCases
 2020-08-18,Scotland,S08000026,Shetland,56
 2020-08-18,Scotland,S08000030,Tayside,1854
 2020-08-18,Scotland,S08000028,Western Isles,7
+2020-08-18,Wales,W11000028,Aneurin Bevan,2769
+2020-08-18,Wales,W11000023,Betsi Cadwaladr,4768
+2020-08-18,Wales,W11000029,Cardiff and Vale,3158
+2020-08-18,Wales,W11000030,Cwm Taf,3051
+2020-08-18,Wales,W11000025,Hywel Dda,1208
+2020-08-18,Wales,,Outside Wales,138
+2020-08-18,Wales,W11000024,Powys,365
+2020-08-18,Wales,W11000031,Swansea Bay,2021
+2020-08-18,Wales,,Unknown,142
 2020-08-19,Scotland,S08000015,Ayrshire and Arran,1293
 2020-08-19,Scotland,S08000016,Borders,350
 2020-08-19,Scotland,S08000017,Dumfries and Galloway,305
