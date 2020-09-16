@@ -2653,7 +2653,7 @@ Date,Country,Indicator,Value
 2020-09-13,Wales,Deaths,1597
 2020-09-13,Wales,Tests,419090
 2020-09-14,Scotland,ConfirmedCases,22749
-2020-09-14,Scotland,Deaths,2500
+2020-09-14,Scotland,Deaths,2499
 2020-09-14,Scotland,Tests,685626
 2020-09-14,Wales,ConfirmedCases,19681
 2020-09-14,Wales,Deaths,1597
@@ -2661,3 +2661,6 @@ Date,Country,Indicator,Value
 2020-09-15,Scotland,ConfirmedCases,23016
 2020-09-15,Scotland,Deaths,2500
 2020-09-15,Scotland,Tests,693038
+2020-09-16,Scotland,ConfirmedCases,23283
+2020-09-16,Scotland,Deaths,2501
+2020-09-16,Scotland,Tests,700387
